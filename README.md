@@ -2,5 +2,6 @@
 
 #### Pet-projects:
 1. [edTool.ru](https://edtool.ru)
-    * [frontend repo](https://github.com/Morion-Self/edtool-front)
-    * [backend repo](https://github.com/Morion-Self/edtool-back)
+    * [Frontend repo](https://github.com/Morion-Self/edtool-front)
+    * [Backend repo](https://github.com/Morion-Self/edtool-back)
+    * [CI/CD repo](https://github.com/Morion-Self/edtool-cicd)
