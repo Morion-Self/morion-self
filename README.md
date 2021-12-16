@@ -5,3 +5,8 @@
     * [Frontend repo](https://github.com/Morion-Self/edtool-front)
     * [Backend repo](https://github.com/Morion-Self/edtool-back)
     * [CI/CD repo](https://github.com/Morion-Self/edtool-cicd)
+
+1. Yelton (archived)
+    * [Frontend repo](https://github.com/Morion-Self/YeltonFrontend)
+    * [Backend repo](https://github.com/Morion-Self/YeltonBackendPHP)
+    * [Android repo](https://github.com/Morion-Self/YeltonAndroid)
