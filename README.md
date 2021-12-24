@@ -7,7 +7,7 @@
 1. [edTool.ru](https://edtool.ru)
     * [Frontend repo](https://github.com/Morion-Self/edtool-front)
     * [Backend repo](https://github.com/Morion-Self/edtool-back)
-    * [CI/CD repo](https://github.com/Morion-Self/edtool-cicd)
+    * [Deploy repo](https://github.com/Morion-Self/edtool-deploy)
 
 1. Yelton (archived)
     * [Frontend repo](https://github.com/Morion-Self/YeltonFrontend)
